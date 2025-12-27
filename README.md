@@ -2,7 +2,7 @@
 ### 🚀 Data-Driven Product Manager | Digital Strategy & Growth Specialist
 
 **Professional Summary**
-Data-driven Product Management aspirant with **3+ years of experience** in Digital Strategy and User Growth. Recently completed the **NextLeap Product Management Fellowship (2025)**, building a portfolio of high-impact case studies ranging from Feature Adoption to Trust & Safety Systems. I specialize in bridging the gap between **user psychology** and **technical implementation**, leveraging a strong background in market research and analytics.
+* Data-driven Product Management aspirant with **3+ years of experience** in Digital Strategy and User Growth. Recently completed the **NextLeap Product Management Fellowship (2025)**, building a portfolio of high-impact case studies ranging from Feature Adoption to Trust & Safety Systems. I specialize in bridging the gap between **user psychology** and **technical implementation**, leveraging a strong background in market research and analytics.
 
 ---
 
