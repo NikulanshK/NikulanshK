@@ -13,9 +13,9 @@ I recently completed the NextLeap Product Management Fellowship (2025), where I 
 
 ### 🛡️ Graduation Project: "Bridge" Feature for Tinder (Trust & Safety)
 *Solving the "Small-Talk Valley" and increasing offline meetups through safety infrastructure.*
-* [cite_start] **The Problem:** 71.9% of users experience "chat stalling," and 84.4% abandon conversations due to safety concerns and lack of verification [cite: 439, 447].
+*  **The Problem:** 71.9% of users experience "chat stalling," and 84.4% abandon conversations due to safety concerns and lack of verification.
 * **The Solution:** A mandatory "Video Call + SOS System" to bridge the gap between digital chat and physical meetings.
-* [cite_start] **Methodology:** RICE Prioritization (Score: 25) [cite: 492] [cite_start], System Architecture Design (API Gateway/Safety API) [cite: 580], and Guardrail Metrics definition.
+* **Methodology:** RICE Prioritization (Score: 25), System Architecture Design (API Gateway/Safety API), and Guardrail Metrics definition.
 * **Outcome:** Designed a feature set projected to increase the North Star Metric (Matches to Confirmed Meetings) while mitigating dating scams.
 
 ### 🎙️ Growth Project: Voice Input Optimization for ChatGPT (Adoption)
