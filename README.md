@@ -1,48 +1,66 @@
-# Portfolio
-Product Management Portfolio
 # Hi there, I'm Nikulansh Kapoor! 👋
-### Product Manager | Digital Marketing Strategist | Data Enthusiast
+### 🚀 Data-Driven Product Manager | Digital Strategy & Growth Specialist
 
-I am an aspiring Product Manager with 3+ years of experience in Digital Marketing and Strategy. I specialize in using data to solve complex user problems—from increasing feature adoption to engineering safety ecosystems in social products.
-
-I recently completed the NextLeap Product Management Fellowship (2025), where I focused on **Growth Mechanics** and **System Design**.
-
----
-
-## 🚀 Featured Product Portfolios
-
-### 🛡️ Graduation Project: "Bridge" Feature for Tinder (Trust & Safety)
-*Solving the "Small-Talk Valley" and increasing offline meetups through safety infrastructure.*
-*  **The Problem:** 71.9% of users experience "chat stalling," and 84.4% abandon conversations due to safety concerns and lack of verification.
-* **The Solution:** A mandatory "Video Call + SOS System" to bridge the gap between digital chat and physical meetings.
-* **Methodology:** RICE Prioritization (Score: 25), System Architecture Design (API Gateway/Safety API), and Guardrail Metrics definition.
-* **Outcome:** Designed a feature set projected to increase the North Star Metric (Matches to Confirmed Meetings) while mitigating dating scams.
-
-### 🎙️ Growth Project: Voice Input Optimization for ChatGPT (Adoption)
-*Boosting feature discoverability for the mobile-first demographic (18-25).*
-* **The Problem:** 76% of surveyed users were unaware of the Voice Input feature due to UI blindness.
-* **The Solution:** An onboarding flow overhaul to increase habit formation.
-* **Impact:** Projected Adoption Rate increase from 7% to 15%.
+**Professional Summary**
+Data-driven Product Management aspirant with **3+ years of experience** in Digital Strategy and User Growth. Recently completed the **NextLeap Product Management Fellowship (2025)**, building a portfolio of high-impact case studies ranging from Feature Adoption to Trust & Safety Systems. I specialize in bridging the gap between **user psychology** and **technical implementation**, leveraging a strong background in market research and analytics.
 
 ---
 
-## 🛠 Skills & Tools
+### 🛠️ Core Product Skills
 
-* **Core PM:** RICE Prioritization, User Flow Design, PRD Writing, North Star Metric Definition, A/B Testing.
-* **Technical Understanding:** API Integration (Conceptual), System Diagrams, Database Logic, Mobile App Architecture.
-* **Data & Analytics:** Google Analytics, SEO (Semrush), Funnel Analysis, Quantitative Surveys.
-* **Design:** Wireframing, Low-Fidelity Prototyping, Adobe Photoshop, Canva.
+#### 🧠 Strategy & Frameworks
+* **Prioritization:** RICE Framework (Reach, Impact, Confidence, Effort), MoSCoW Method.
+* **Metrics:** North Star Metric Definition, Guardrail Metrics, KPI Tracking.
+* **Lifecycle:** GTM Strategy, Product Lifecycle Management (PLM).
+
+#### 💻 Technical Aptitude
+* **System Design:** System Architecture Diagrams, Data Flow Mapping.
+* **API Logic:** API Integration, Database Schema Concepts.
+* **Tools:** ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?logo=google-analytics&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+
+#### 🔎 User Research
+* **Methods:** User Persona Creation, Quantitative Surveys, Qualitative Interviews, Empathy Mapping.
+* **Analytics:** Semrush, Excel/Google Sheets (Advanced).
 
 ---
 
-## 💼 Professional Background
+### 📂 Product Management Projects (PRDs)
 
-* **Freelance Digital Strategist:** Managed end-to-end growth strategies for diverse clients, focusing on acquisition and content performance.
-* **Journalism Background:** Strong foundation in qualitative research, interviewing, and storytelling.
+#### 🎓 [Graduation Project: "Bridge" Feature for Tinder](./Graduation_Project.pdf)
+**Focus:** Trust & Safety | **Role:** Product Owner
+
+* **Problem Identification:** Identified the critical **"Small-Talk Valley"** phenomenon where **71.9% of chats stall**, with **84.4% of users** citing safety concerns as the primary barrier to meeting offline.
+* **Solution:** Conceptualized a "Mandatory Video Call & SOS" feature to validate user identity, creating a secure environment for the 18-24 age demographic.
+* **Technical Implementation:** Engineered a **technical system diagram** detailing the interaction between User Mobile Apps, API Gateways, and Safety APIs to ensure real-time location sharing during emergencies.
+* **Strategic Prioritization:** Prioritized the MVP roadmap using the **RICE framework**, achieving a confidence score of 25 for the "Verified Profiles + SOS" solution over lower-impact alternatives.
+***Success Metrics:** Defined **"Percentage of matches progressing to confirmed meetings"** as the North Star Metric and "Video Call Engagement Rate" as a leading indicator.
+
+👉 **[📄 Read Full PRD & System Architecture](./Graduation_Project.pdf)**
+
+#### 🚀 [Capstone Project: Voice Input Adoption for ChatGPT Mobile](./Milestone_3.pdf)
+**Focus:** Growth & Feature Adoption | **Role:** Product Owner
+
+* **Diagnosis:** Diagnosed a **76% feature unawareness rate** among the student demographic through rigorous market research and competitor analysis.
+* **The "fix":** Spearheaded the design of an "Onboarding Awareness" flow to disrupt UI blindness without compromising the app's minimalist aesthetic.
+* **Impact Forecast:** Forecasted a **2x increase in adoption rate (7% → 15%)** by optimizing the discoverability funnel.
+* **UX Design:** Constructed low-fidelity wireframes to visualize the user journey from feature discovery to first successful voice query.
+
+👉 **[📄 Read Full Case Study](./Milestone_3.pdf)**
 
 ---
 
-## 📫 Connect with Me
+### 💼 Professional Experience
 
-* **Email:** k.nikulansh@gmail.com
-* **LinkedIn:** https://www.linkedin.com/in/nikulanshkapoor/
+**Freelance Digital Marketing Strategist** | *DigiAcross Global / Independent*
+*(Nov 2022 – Present)*
+
+* **Growth Strategy:** Orchestrated comprehensive digital growth campaigns, utilizing data analytics to optimize **User Acquisition Costs (CAC)** and engagement.
+* **Market Analysis:** Analyzed competitor landscapes to identify market gaps, positioning client products effectively against established players.
+* **Stakeholder Management:** Managed cross-functional stakeholder expectations, translating complex business requirements into executable creative and marketing roadmaps.
+* **Experimentation:** Designed high-conversion landing pages and creative assets, utilizing **A/B testing principles** to improve user retention and click-through rates.
+
+---
+
+### 📬 Connect with Me
+* 📧 [k.nikulansh@gmail.com](mailto:k.nikulansh@gmail.com)
+* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/nikulanshkapoor/)
